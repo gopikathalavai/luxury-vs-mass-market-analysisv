@@ -84,9 +84,22 @@ luxury-vs-mass-market-analysis/
 - Consumer sentiment analysis
 - ESG comparison
 - Geographic revenue analysis
+- ## Key Insights
+
+### Luxury Brand Resilience
+Luxury-oriented companies such as LVMH and L'Oréal demonstrated stronger long-term growth and recovery patterns compared to several mass-market firms during inflationary periods.
+
+### Pricing Power Advantage
+Premium brands appeared more capable of transferring higher costs to consumers without significantly affecting demand, indicating stronger pricing power.
+
+### Correlation Trends
+LVMH and L'Oréal displayed relatively stronger correlations, suggesting similar exposure to global luxury consumption trends. Estée Lauder showed weaker correlations, indicating different market dynamics and company-specific performance factors.
+
+### Economic Implication
+The findings suggest that higher-income consumer segments may remain relatively resilient during inflationary periods, supporting the idea that luxury demand can be less price-sensitive.
 
 ---
 
 ## Author
 Gopika Thalavai Nallasivan
-BSc Economics Student | CFA Level I Candidate
+BSc Economics  | CFA Level I Candidate

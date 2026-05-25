@@ -86,7 +86,7 @@ luxury-vs-mass-market-analysis/
 - Geographic revenue analysis
 - ## Key Insights
 # Stock Performance Analysis 
-![Luxury vs Mass Market Performance](Structured normalised performance .png) 
+![Luxury](Structured normalised performance .png) 
 
 The normalized stock performance analysis compares the growth trajectories of major luxury consumer companies from 2020 onward.
 

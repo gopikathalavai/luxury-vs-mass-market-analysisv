@@ -126,7 +126,7 @@ Luxury-oriented firms with strong brand value may possess greater ability to tra
 
 ## Stock Performance Chart
 
-![Luxury vs Mass Market Performance](Luxury data.png) 
+![Luxury vs Mass Market Performance](Luxury data .png) 
 
 ---
 

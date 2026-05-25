@@ -85,6 +85,7 @@ luxury-vs-mass-market-analysis/
 - ESG comparison
 - Geographic revenue analysis
 - ## Key Insights
+- 
 # Stock Performance Analysis 
 ![Luxury](Structured_normalised_performance.png) 
 
